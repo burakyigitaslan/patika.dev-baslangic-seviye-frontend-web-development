@@ -1,0 +1,27 @@
+#first-div {
+  height: 113px;
+}
+
+#second-div {
+  height: 144px;
+}
+
+div {
+  text-align: center;
+}
+
+.width-90 {
+  width: 90%;
+}
+
+.bg-gray {
+  background-color: #eeeeee;
+}
+
+.a-smallfont {
+  font-size: small;
+}
+
+span {
+  font-size: small;
+}

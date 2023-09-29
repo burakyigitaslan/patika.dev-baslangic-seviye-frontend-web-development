@@ -1,0 +1,59 @@
+body {
+  background-color: wheat;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-size: 30px;
+}
+
+.mis-vis {
+  color: brown;
+  font-size: 20px;
+}
+
+.mis-vis + p {
+  font-style: italic;
+  font-size: 17px;
+}
+
+ul {
+  text-align: center;
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol p {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+header span {
+  margin: 0 10px;
+}
+#navbar {
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  border: 2px solid black;
+}
+
+.contact {
+  font-size: 17px;
+  font-weight: bold;
+}
